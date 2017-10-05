@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NetLicensingClient-demo")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Demo program demonstrates usage of NetLicensingAPI in C#")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Labs64 GmbH")]
 [assembly: AssemblyProduct("NetLicensingClient-demo")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
